@@ -20,7 +20,7 @@
             Sort By
             @sortablelink('id', 'ID')
             @sortablelink('price','Price')
-            @sortbalelink('created_at','Created_at')
+            @sortablelink('created_at','Created_at')
         </div>
         <div class="container mt-4">
             <div class="row w-100">
